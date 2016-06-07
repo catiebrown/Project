@@ -1,0 +1,9 @@
+Package: valence
+Type: Package
+Title: Valence Item Analysis
+Version: 0.1.0
+Authors@R: person("Catherine", "Brown", email = "cbrown60@unl.edu", role = c("aut", "cre"))
+Description: Prepares raw valence rating data for classical item analysis (istudy).
+License: GNU
+LazyData: TRUE
+RoxygenNote: 5.0.1
